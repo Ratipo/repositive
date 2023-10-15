@@ -132,7 +132,7 @@ export default function Main({game}) {
 
             <h2>Servicios Financieros</h2>
             <img className="img-logo" src="/imagenes/9.webp" alt="logo"/>
-
+        
 
         </div>
     );
